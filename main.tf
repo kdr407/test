@@ -7,7 +7,7 @@ terraform {
     }
 	
     backend "remote" {
-        organization = "team-arch"
+        organization = "Org-Xpanse"
 
         workspaces {
             name = "test"
